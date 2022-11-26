@@ -6,19 +6,18 @@ export default function About() {
       <div className="container mx-auto flex px-10 py-20 md:flex-row flex-col items-center">
         <div className="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
           <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-white">
-            Hi, I'm Reed.
-            <br className="hidden lg:inline-block" />I love to build amazing
-            apps.
+            Hi, I'm Matt.
+            <br className="hidden lg:inline-block" />I love to learn everyday.
           </h1>
           <p className="mb-8 leading-relaxed">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui
-            laborum quasi, incidunt dolore iste nostrum cupiditate voluptas?
-            Laborum, voluptas natus?
+            I'm a third year Computer Science major and Math minor at Northeastern University with a concentration in Artificial Intelligence.
+            I have much experience working on collaborative design projects through work, school, and extracurriculars.
+            Please look around at some of my past work and experiences, and reach out if you have any opportunities you think I'd be a good fit for!
           </p>
           <div className="flex justify-center">
             <a
               href="#contact"
-              className="inline-flex text-white bg-green-500 border-0 py-2 px-6 focus:outline-none hover:bg-green-600 rounded text-lg">
+              className="inline-flex text-white bg-red-600 border-0 py-2 px-6 focus:outline-none hover:bg-red-500 rounded text-lg">
               Work With Me
             </a>
             <a

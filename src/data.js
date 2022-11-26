@@ -1,60 +1,46 @@
 export const projects = [
   {
-    title: "React Reserve",
-    subtitle: "MERN Stack",
+    title: "Marino Center Capacity Tracker",
+    subtitle: "React, Python, and Firebase",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-1.gif",
-    link: "https://reactbootcamp.com",
+      "This web app gathers capacity data from the Northeastern recreation website and allows students to see what times are historically best for them to hit the gym.",
+    image: "./marino.jpg",
+    link: "https://mattkeefer.github.io",
   },
   {
-    title: "React Tracks",
-    subtitle: "React and Python",
+    title: "Checkers AI",
+    subtitle: "JavaScript",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-2.gif",
-    link: "https://reactbootcamp.com",
-  },
-  {
-    title: "DevChat",
-    subtitle: "React and Firebase",
-    description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-3.gif",
-    link: "https://reactbootcamp.com",
-  },
-  {
-    title: "Epic Todo App",
-    subtitle: "React Hooks",
-    description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-4.gif",
-    link: "https://reactbootcamp.com",
-  },
+      "This is a checkers game where the user can choose to play multiplayer or alone versus an AI. They can choose a difficulty of beginner, intermediate, hard, or impossible.",
+    image: "./checkers.png",
+    link: "https://mattkeefer.github.io",
+  }
 ];
 
-export const testimonials = [
+export const resume = [
   {
-    quote:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
-    image: "https://randomuser.me/api/portraits/men/1.jpg",
-    name: "Jesse Hicks",
-    company: "Zoozle",
+    time: "July - December 2022",
+    description:
+      "Member of the Data and API Foundations Team, responsible for building an internal product data pipeline diagnostic tool to help save engineers time. Created this microservice using Spring Boot, Kafka streams, Aerospike, Elasticsearch, and React.js.",
+    image: "https://uspto.report/TM/88774045/mark.png",
+    name: "Software Engineering Co-op",
+    company: "Wayfair",
   },
   {
-    quote:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
-    image: "https://randomuser.me/api/portraits/men/94.jpg",
-    name: "Ruben Alvarez",
-    company: "Dooble.io",
+    time: "January - May 2022",
+    description:
+      "Guided students through course material and homework questions during weekly office hours. Reinforced concepts from lecture such as inheritance, recursion, and dynamic dispatch in a weekly lab for around 20 students. Spread my passion for computer science.",
+    image: "https://globalshala.com/wp-content/uploads/2021/03/1556893197_nu_mononu_cmyk_rb.jpg",
+    name: "Fundamentals of CS II Teaching Assistant",
+    company: "Khoury College of Computer Sciences",
   },
 ];
 
 export const skills = [
+  "Java",
+  "Python",
+  "Spring Boot",
+  "C",
   "JavaScript",
   "React",
-  "Next.js",
-  "Node",
-  "GraphQL",
-  "Material UI",
 ];
