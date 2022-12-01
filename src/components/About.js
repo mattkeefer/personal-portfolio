@@ -10,7 +10,7 @@ export default function About() {
             <br className="hidden lg:inline-block" />I love to learn everyday.
           </h1>
           <p className="mb-8 leading-relaxed cursor-default">
-            I'm a third year <span className="hover:text-red-200 text-white">Computer Science major</span> and <span className="hover:text-red-200 text-white">Math minor</span> at <span className="hover:text-red-400 text-red-500">Northeastern University</span> with a concentration in <span className="hover:text-red-200 text-white">Artificial Intelligence</span>.
+            I'm a third year <span className="text-white">Computer Science major</span> and <span className="text-white">Math minor</span> at <span className="text-red-500">Northeastern University</span> with a concentration in <span className="text-white">Artificial Intelligence</span>.
             I have much experience working on collaborative design projects through work, school, and extracurriculars.
             Please look around at some of my past work and experiences, and reach out if you have any opportunities you think I'd be a good fit for!
           </p>
