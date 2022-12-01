@@ -5,12 +5,12 @@ export default function About() {
     <section id="about">
       <div className="container mx-auto flex px-10 py-20 md:flex-row flex-col items-center">
         <div className="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
-          <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-white">
-            Hi, I'm Matt.
+          <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-white cursor-default">
+            Hi, I'm Matt.&nbsp;
             <br className="hidden lg:inline-block" />I love to learn everyday.
           </h1>
-          <p className="mb-8 leading-relaxed">
-            I'm a third year Computer Science major and Math minor at Northeastern University with a concentration in Artificial Intelligence.
+          <p className="mb-8 leading-relaxed cursor-default">
+            I'm a third year <span className="hover:text-red-200 text-white">Computer Science major</span> and <span className="hover:text-red-200 text-white">Math minor</span> at <span className="hover:text-red-400 text-red-500">Northeastern University</span> with a concentration in <span className="hover:text-red-200 text-white">Artificial Intelligence</span>.
             I have much experience working on collaborative design projects through work, school, and extracurriculars.
             Please look around at some of my past work and experiences, and reach out if you have any opportunities you think I'd be a good fit for!
           </p>

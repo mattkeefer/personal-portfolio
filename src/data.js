@@ -11,7 +11,7 @@ export const projects = [
     title: "Checkers AI",
     subtitle: "JavaScript",
     description:
-      "This is a checkers game where the user can choose to play multiplayer or alone versus an AI. They can choose a difficulty of beginner, intermediate, hard, or impossible.",
+      "This is a checkers game where the user can choose to play multiplayer or alone versus an AI. The skill level of the AI can be adjusted between beginner, intermediate, hard, and impossible.",
     image: "./checkers.png",
     link: "https://mattkeefer.github.io",
   }

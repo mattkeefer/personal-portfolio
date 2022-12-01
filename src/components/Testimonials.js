@@ -30,7 +30,7 @@ export default function Resume() {
                   </span>
                 </div>
                 <p className="leading-relaxed mb-6 pt-4">{experience.description}</p>
-                <p className="leading-relaxed mb-2 pt-2">{experience.time}</p>
+                <p className="leading-relaxed mb-2 pt-2 text-white">{experience.time}</p>
               </div>
             </div>
           ))}
