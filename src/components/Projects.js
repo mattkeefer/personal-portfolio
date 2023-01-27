@@ -19,10 +19,11 @@ export default function Projects() {
         <div className="flex flex-wrap -m-4 mb-10">
           {projects.map((project) => (
             <a
-              // href={project.link}
+              target="_blank"
+              href={project.link}
               key={project.image}
               className="sm:w-1/2 w-100 p-4">
-              <div className="flex relative cursor-default">
+              <div className="flex relative">
                 <img
                   alt="gallery"
                   className="absolute inset-0 w-full h-full object-cover object-center border-4 border-gray-800"

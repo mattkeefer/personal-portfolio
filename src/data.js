@@ -5,15 +5,15 @@ export const projects = [
     description:
       "This web app gathers capacity data from the Northeastern recreation website and allows students to see what times are historically best for them to hit the gym.",
     image: "./marino.jpg",
-    link: "https://mattkeefer.github.io",
+    link: "https://mattkeefer.github.io/gym-app",
   },
   {
     title: "Checkers AI",
     subtitle: "JavaScript",
     description:
-      "This is a checkers game where the user can choose to play multiplayer or alone versus an AI. The skill level of the AI can be adjusted between beginner, intermediate, hard, and impossible.",
+      "This is a checkers game where the user can currently only play multiplayer. It is being remade using React, and will support single player use through a minimax algorithm.",
     image: "./checkers.png",
-    link: "https://mattkeefer.github.io",
+    link: "https://github.com/mattkeefer/Checkers",
   }
 ];
 
