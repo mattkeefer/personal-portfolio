@@ -9,11 +9,11 @@ export const projects = [
   },
   {
     title: "Checkers AI",
-    subtitle: "JavaScript",
+    subtitle: "React, Python, and Flask",
     description:
-      "This is a checkers game where the user can currently only play multiplayer. It is being remade using React, and will support single player use through a minimax algorithm.",
+      "This is a checkers game where the user can play against an AI using a minimax algorithm implementation. The React frontend is currently in progress.",
     image: "./checkers.png",
-    link: "https://github.com/mattkeefer/Checkers",
+    link: "https://github.com/mattkeefer/checkers-app",
   }
 ];
 
@@ -40,7 +40,7 @@ export const skills = [
   "Java",
   "Python",
   "Spring Boot",
-  "C",
-  "JavaScript",
   "React",
+  "TypeScript",
+  "C",
 ];
