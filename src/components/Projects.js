@@ -12,7 +12,7 @@ export default function Projects() {
             Personal Projects
           </h1>
           <p className="lg:w-2/3 mx-auto leading-relaxed text-base cursor-default">
-            These are some of the projects I have spent time building outside of work and classes. 
+            These are some of the projects I have spent time building outside of work. 
             Feel free to check them out!
           </p>
         </div>
