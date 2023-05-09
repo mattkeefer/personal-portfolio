@@ -21,7 +21,7 @@ export const projects = [
     description:
       "This project extends the Covey Town web app by adding Spotify integration, allowing users to enter a music listening room and create a collaborative playlist filled with their top songs.",
     image: "./covey-town.png",
-    link: "https://github.com/neu-cs4530/spring-23-team-708",
+    link: "https://github.com/mattkeefer/covey-spotify-room",
   },
   {
     title: "NHL Outcome Prediction Model",
@@ -29,7 +29,7 @@ export const projects = [
     description:
       "This project utilizes three different machine learning models to predict the outcome of an NHL game. The top two models perform at around 60% accuracy which is typical of existing NHL models.",
     image: "./hockey.jpg",
-    link: "https://github.com/leoRysing/DS-4400-final-proj/tree/main/src",
+    link: "https://github.com/mattkeefer/nhl-outcome-prediction",
   },
 ];
 
@@ -56,8 +56,8 @@ export const resume = [
 export const skills = [
   "Java",
   "Python",
-  "Spring Boot",
   "React",
   "TypeScript",
+  "Spring Boot",
   "C",
 ];

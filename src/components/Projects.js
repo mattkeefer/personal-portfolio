@@ -12,8 +12,8 @@ export default function Projects() {
             Personal Projects
           </h1>
           <p className="lg:w-2/3 mx-auto leading-relaxed text-base cursor-default">
-            These are some of the projects I have spent time building outside of work. 
-            Feel free to check them out!
+            These are some of the projects I have built in my free
+            time and in class. Feel free to check them out!
           </p>
         </div>
         <div className="flex flex-wrap -m-4 mb-10">
@@ -22,7 +22,8 @@ export default function Projects() {
               target="_blank"
               href={project.link}
               key={project.image}
-              className="sm:w-1/2 w-100 p-4">
+              className="sm:w-1/2 w-100 p-4"
+            >
               <div className="flex relative">
                 <img
                   alt="gallery"
