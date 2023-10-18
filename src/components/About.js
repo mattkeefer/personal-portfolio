@@ -9,9 +9,9 @@ export default function About() {
             Hi, I'm Matt!
           </h1>
           <p className="mb-8 leading-relaxed cursor-default">
-            I'm a third year <span className="text-white">Computer Science major</span> and <span className="text-white">Math minor</span> at <span className="text-red-500">Northeastern University</span> with a concentration in <span className="text-white">Artificial Intelligence</span>.
-            I have much experience working on collaborative design projects through work, school, and extracurriculars.
-            Please look around at some of my past work and experiences, and reach out if you have any opportunities you think I'd be a good fit for!
+            As an accomplished <span className="text-white">Computer Science</span> student at <span className="text-red-500">Northeastern University</span> with hands-on experience in software development and a proven track
+            record of success, I am confident that my technical expertise and passion for innovation make me an ideal candidate for any opportunity you
+            have available.
           </p>
           <div className="flex justify-center">
             <a
@@ -30,7 +30,7 @@ export default function About() {
           <img
             className="object-cover object-center rounded-full"
             alt="hero"
-            src="./profile-pic.jpg"
+            src="./profile-pic.JPG"
           />
         </div>
       </div>
