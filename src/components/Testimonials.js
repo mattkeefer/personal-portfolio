@@ -12,8 +12,8 @@ export default function Resume() {
         </h1>
         <div className="flex flex-wrap m-4 mb-10">
           {resume.map((experience) => (
-            <div className="p-4 md:w-1/2 w-full">
-              <div className="h-full bg-gray-800 bg-opacity-40 p-8 rounded">
+            <div style={{height: "500px"}} className="p-4 md:w-1/2 w-full">
+              <div className="h-full bg-gray-800 bg-opacity-40 p-8 rounded overflow-auto">
                 <div className="inline-flex items-center">
                   <img
                     alt="experience"

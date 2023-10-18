@@ -35,9 +35,23 @@ export const projects = [
 
 export const resume = [
   {
+    time: "July 2023 - Present",
+    description:
+      "Implement desirable features to improve UX in the Enterprise Cloud"
+        + " Portal using TypeScript and Angular. Collaborate across "
+        + "Enterprise Certificate teams to develop end-to-end services for "
+        + " users and developers",
+    image: "https://logosandtypes.com/wp-content/uploads/2021/04/Entrust.png",
+    name: "Software Development Co-op",
+    company: "Entrust",
+  },
+  {
     time: "July - December 2022",
     description:
-      "Member of the Data and API Foundations Team, responsible for building an internal product data pipeline diagnostic tool to help save engineers time. Created this microservice using Spring Boot, Kafka streams, Aerospike, Elasticsearch, and React.",
+      "Member of the Data and API Foundations Team, responsible for "
+        + "building an internal product data pipeline diagnostic tool "
+        + "to help save engineers time. Created this microservice using "
+        + "React, Spring Boot, Aerospike, Elasticsearch, and PHP.",
     image: "https://uspto.report/TM/88774045/mark.png",
     name: "Software Engineering Co-op",
     company: "Wayfair",
@@ -45,7 +59,11 @@ export const resume = [
   {
     time: "January - May 2022",
     description:
-      "Guided students through course material and homework questions during weekly office hours. Reinforced concepts from lecture such as inheritance, recursion, and dynamic dispatch in a weekly lab for around 20 students. Spread my passion for computer science.",
+      "Guided students through course material and homework questions "
+        + "during weekly office hours. Reinforced concepts from lecture "
+        + "such as inheritance, recursion, and dynamic dispatch in a "
+        + "weekly lab for around 20 students. Spread my passion for "
+        + "computer science.",
     image:
       "https://globalshala.com/wp-content/uploads/2021/03/1556893197_nu_mononu_cmyk_rb.jpg",
     name: "Fundamentals of CS II Teaching Assistant",
@@ -56,8 +74,10 @@ export const resume = [
 export const skills = [
   "Java",
   "Python",
+  "JavaScript & TypeScript",
   "React",
-  "TypeScript",
+  "Angular",
   "Spring Boot",
-  "C",
+  "Git",
+  "HTML & CSS"
 ];
