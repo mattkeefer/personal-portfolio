@@ -35,12 +35,19 @@ export const projects = [
 
 export const resume = [
   {
-    time: "July 2023 - Present",
+    time: "August 2024",
+    description: "Incoming Software Engineer on the Supply Chain Tech team.",
+    image: "https://uspto.report/TM/88774045/mark.png",
+    name: "Software Engineer I",
+    company: "Wayfair",
+  },
+  {
+    time: "July - December 2023",
     description:
       "Implement desirable features to improve UX in the Enterprise Cloud"
         + " Portal using TypeScript and Angular. Collaborate across "
         + "Enterprise Certificate teams to develop end-to-end services for "
-        + " users and developers",
+        + " users and developers.",
     image: "https://logosandtypes.com/wp-content/uploads/2021/04/Entrust.png",
     name: "Software Development Co-op",
     company: "Entrust",
@@ -62,8 +69,7 @@ export const resume = [
       "Guided students through course material and homework questions "
         + "during weekly office hours. Reinforced concepts from lecture "
         + "such as inheritance, recursion, and dynamic dispatch in a "
-        + "weekly lab for around 20 students. Spread my passion for "
-        + "computer science.",
+        + "weekly lab for around 20 students.",
     image:
       "https://globalshala.com/wp-content/uploads/2021/03/1556893197_nu_mononu_cmyk_rb.jpg",
     name: "Fundamentals of CS II Teaching Assistant",
